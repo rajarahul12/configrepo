@@ -1,4 +1,8 @@
 {
   "username":"rajarahul12",
-  "repoName": "Testionic"
+  "repoName": "Testionic",
+  "ios": {
+     "host": "9.109.199.154",
+     "botId": "b09669421fbca2e8d7eb462839004661"
+  }
 }
