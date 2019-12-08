@@ -2,7 +2,7 @@
   "username":"rajarahul12",
   "repoName": "Testionic",
   "ios": {
-     "host": "9.109.199.154",
+     "host": "192.168.0.8",
      "botId": "b09669421fbca2e8d7eb462839004661"
   }
 }
